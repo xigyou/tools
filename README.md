@@ -6,8 +6,8 @@
 ## Download
 
 | Tools      | Descriptions |
-| ---------: | :----- | :---- |
-| BaiduNetdiskPlugin-macOS | For macOS.百度网盘 破解SVIP、下载速度限制~ | https://github.com/CodeTips/BaiduNetdiskPlugin-macOS |
+| --------- | ----- |
+| [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | For macOS.百度网盘 破解SVIP、下载速度限制~ |
 
 
 

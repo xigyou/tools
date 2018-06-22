@@ -11,7 +11,7 @@
 | [搜盘盘](https://www.sopanpan.com/userlist/) | 网盘搜索 |
 
 
-## syntax
+## Syntax
 
 | Tools      | Descriptions |
 | --------- | ----- |
